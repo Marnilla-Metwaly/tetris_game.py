@@ -1,8 +1,5 @@
 #################################################
-# hw7_tetris.py
-#
-# Your name: Marnilla Metwaly
-# Your andrew id: mmetwaly
+# tetris.py
 #################################################
 
 from cmu_graphics import *
